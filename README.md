@@ -1,2 +1,2 @@
 # Curso-basico-JavaScript
-Exercícios realizados em um curso básico de JavaScript
+Exercícios propostos no curso básico de JavaScript da Rocketseat
